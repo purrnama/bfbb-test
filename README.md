@@ -1,6 +1,7 @@
 # bfbb-test
 Hosting repo to test WebGL for Battle for BFDI Battle.
 
-The loading is heck slow because its loading everything into the game although they're not even used in the current test.
+Update 18/3/20
+Testing the current mechanics, sprites and new training level design.
 
-So yeah.
+Please report any issues in the discord server.
